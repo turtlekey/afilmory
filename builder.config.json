@@ -6,8 +6,8 @@
   "storage": {
     "provider": "s3",
     "bucket": "picimpact",
-    "region": "oss-cn-hangzhou",
-    "prefix": "/",
+    "region": "auto",
+    "prefix": "",
     "customDomain": "",
     "endpoint": "https://oss-cn-hangzhou.aliyuncs.com"
   },
