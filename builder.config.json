@@ -1,7 +1,7 @@
 {
   "repo": {
-    "enable": false,
-    "url": "https://github.com/username/gallery-assets"
+    "enable": true,
+    "url": "https://github.com/turtlekey/afilmory-assets"
   },
   "storage": {
     "provider": "s3",
