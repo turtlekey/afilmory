@@ -1,0 +1,16 @@
+{
+  "name": "回归线的摄影",
+  "title": "回归线的摄影",
+  "description": "用镜头留下生活中的美",
+  "url": "https://huiguixian.fun/",
+  "accentColor": "#007bff",
+  "author": {
+    "name": "回归线",
+    "url": "https://huiguixian.fun/",
+    "avatar": "https://cloudflare-imgbed-a1s.pages.dev/file/avatar/1757145234249_avatar.jpg"
+  },
+  "map": [
+    "maplibre"
+  ],
+  "mapStyle": "https://tiles.openfreemap.org/styles/liberty"
+}
